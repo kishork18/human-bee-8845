@@ -47,4 +47,7 @@ If you run Main method thats how interface will show then you can choose any of 
 ## Admin Interface
 Thats how admin Interface look like you can add course remove course vise versa for student as well.
 ![Screenshot (102)](https://user-images.githubusercontent.com/119414124/236760623-d55622cc-32c7-41e3-a073-d61715655998.png)
+## Student Interface
+Thats how student interface is look like you can purchase number of courses from this software.
 
+![Screenshot (103)](https://user-images.githubusercontent.com/119414124/236762033-058e93db-551c-48fc-8e06-8dbd3a1cd80b.png)
