@@ -5,3 +5,8 @@ This is a software application that automates the student registration process i
 ## Problem Description:
 
 In an Educational Institute, every year technology training is conducted during the summer and winter seasons. Students are enrolled in different courses under different technology tracks like- Android, Java, JEE, PHP, Oracle, etc. This automated application will help Institute create batches under a course, register the students, and efficiently allocate the student in a batch.
+
+## Installation
+
+1.Open the project in your favorite IDE
+2.Run the main class (Main.java)
