@@ -8,5 +8,5 @@ In an Educational Institute, every year technology training is conducted during 
 
 ## Installation
 
-1.Open the project in your favorite IDE
-2.Run the main class (Main.java)
+1. Open the project in your favorite IDE
+2. Run the main class (Main.java)
