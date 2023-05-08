@@ -10,3 +10,6 @@ In an Educational Institute, every year technology training is conducted during 
 
 1. Open the project in your favorite IDE
 2. Run the main class (Main.java)
+# #The main users of the system:
+1. Administrator;
+2. Student
