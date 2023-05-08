@@ -40,3 +40,11 @@ In an Educational Institute, every year technology training is conducted during 
 3. One course can have many batches but a batch can belong to a single course.
 4. A student can be enrolled in any number of courses and a course can have any number of students.
 5. Kindly throw the appropriate exception for any invalid data entry like duplicate email, incorrect course name, batch name, etc.
+## Main Interface
+If you run Main method thats how interface will show then you can choose any of it using number
+
+![Screenshot (101)](https://user-images.githubusercontent.com/119414124/236760243-cbbe409a-d0a2-444d-b809-dd41f0e5533c.png)
+## Admin Interface
+Thats how admin Interface look like you can add course remove course vise versa for student as well.
+![Screenshot (102)](https://user-images.githubusercontent.com/119414124/236760623-d55622cc-32c7-41e3-a073-d61715655998.png)
+
